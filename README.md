@@ -25,7 +25,7 @@ This report is ran every day by nurses since it is part of their end-of-day work
 ![Dosing](https://github.com/PSid-R32/Data-Visualizations/assets/55320989/48fb35b5-404f-4913-a81d-ca83d8b84e5b)
 
 ## Takeaway
-We had just discussed the severity of reporting accurate financial reports for clients. Here, we are multiplying the severity as a clinic can be shut down, on the spot, if a DEA auditor suspects that there are unaccounted for discrepencies in the medication inventory and history. While reports are only as good as the data that they are fed, there is still a slew of data validation that need to be done on the backend before it is made client-facing to ensure that the data being presented is one hundred percent accurate.
+We had just discussed the severity of reporting accurate financial reports for clients. Here, we are multiplying the severity as a clinic can be shut down, on the spot, if a DEA auditor suspects that there are unaccounted for discrepencies in the medication inventory and history. One instance, I was on the phone with a client as they exclaimed they have an auditor from the DEA sitting next to them and they want to see data point X in the report, and an explaination as to how data point Y was derived.
 
 ## Demographics Across a Facility
 This report is a great one that I use often when talking to non-techincal stakeholders that want an interactive dashboard. Each one of the graphs display information as you hover over each piece of the pie, as well as the ability to dril down into each "slice" to see what makes up that slice. Right above the graphs we also see two filters that allow the user to filter their results based on parameters they requested. So while there is a location filter at the top, this specific client also wanted to be able to filter by program, as well as a specific counselor.
@@ -38,7 +38,9 @@ A big aspect of working with data is being able to make it easy to read, much li
 
 
 ## Overall Conclusion
-Within healthcare, there are a lot of reporting agencies within the private sector, as well as public; on a state and federal level. Being able to customize reports on a moments notice, confidently is a skill that I value immensely. One instance, I was on the phone with a client as they exclaimed they have an auditor from the DEA sitting next to them and they want to see data point X in the report, and an explaination as to how data point Y was derived.
+While reports are only as good as the data that they are fed, there is still a slew of data validation that need to be done on the backend before it is made client-facing to ensure that the data being presented is one hundred percent accurate.
+
+Within healthcare, there are a lot of reporting agencies within the private sector, as well as public; on a state and federal level. Being able to customize reports on a moments notice, confidently is a skill that I value immensely.
 
 
 
