@@ -37,7 +37,7 @@ I'd like to pull in more patient demographic columns focusing on cities, and tow
 A big aspect of working with data is being able to make it easy to read, much like this forum (at least I hope.) Without being a data storyteller, the end user really cannot get the information that they're looking for, even if it is right in front of them. Everyone interprets information differently, and being able to adapt to each individual's learning style is pivitol when creating data visualizations.
 
 
-## Overall Conclusion
+## Conclusion
 While reports are only as good as the data that they are fed, there is still a slew of data validation that need to be done on the backend before it is made client-facing to ensure that the data being presented is one hundred percent accurate.
 
 Within healthcare, there are a lot of reporting agencies within the private sector, as well as public; on a state and federal level. Being able to customize reports on a moments notice, confidently is a skill that I value immensely.
